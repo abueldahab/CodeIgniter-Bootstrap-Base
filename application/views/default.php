@@ -44,9 +44,9 @@
 			</div>
 		<?}?>
 	</div>
-	<div class="span12">
+<div style="clear: both;">
 	<?=$content?>
-	</div>
+</div>
 </div>
 <?=$footer?>
 </body>
